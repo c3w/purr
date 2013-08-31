@@ -1,0 +1,18 @@
+###
+## PURR
+## a simple RSS to Growl Notification script
+## parses any RSS feed, on your schedule, and sent to growlnotify
+##
+## requires Growl 2.0+ (App Store), growlnotify http://growl.info/downloads
+##
+
+Bundled RSS feeds include:
+	commandlinefu.com
+	macrumors.com
+	fema.gov
+	cert.org
+
+Plus a simple ping test to google that will inform you when you are off teh wifis
+
+--
+Chas <c3w@juicypop.net>
